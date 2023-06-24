@@ -12,12 +12,12 @@
 }
 body {
   margin: 0;
-  font-family: "Dudek", "Dudek Bold", "Open Sans", -apple-system,
-    BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
-    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
+  font-family: "Avenir Roman", "Avenir Book", "Avenir Black", "Open Sans",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: gray !important;
+  color: black !important;
 }
 
 code {
